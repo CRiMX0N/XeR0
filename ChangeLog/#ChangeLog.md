@@ -46,3 +46,5 @@
 Changed scorebar: The **username**, **country** and **avatar** are written into scorebar!
 > Used "[osu! healthbar generator](https://pqqqqw.pw/generator/)" to create that.  
 ~~I want to create original scorebar some day...~~
+
+# Thx for using my skin, J.G!
