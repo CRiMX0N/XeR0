@@ -1,5 +1,10 @@
-# Mark Negative1 "Empty"
-* Empty is not skin.  
-This skin is used to initialize for other branch skins.
+# Version 1.00
+* Created this Skin.
 
-~~If you want to play osu with default, you can choice Empty?~~
+# Version 1.10
+* Change Mod selection icon.
+* Change inputoverlay-key & this backgrond.
+
+# Mark1 "Scavenger"
+* My skins start from Scavenger....
+* Nostalgic, I recollect playing of the biginner XD
