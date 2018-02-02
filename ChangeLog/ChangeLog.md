@@ -1,6 +1,7 @@
-# Mk3 Seeker
-* Mk3 Seeker hides your score, combo number, ACC and hit bursts.
-* You can check your score and max combo number at left side of beatmap selection view.
-* I created Mk3 Seeker because I wanted user who uses this skin to just enjoy playing osu! without thinking combo, rank and score.
+# Mk5 Striker
+* Mk5 Striker hides your combo number, ACC and hit bursts when you're playing beatmap.
+* You can check your combo number, score and ACC at result.
+* Mk5 Striker is more easy to confirm your appearance than Mk3 Seeker.
+* I wish you to suit this skin to concentrate on playing osu!
 
 > Enjoy your playing!
