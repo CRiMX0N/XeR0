@@ -1,5 +1,6 @@
-# Mk6 Predator
-* Mk6 Predator is branched from Mk5 Striker
-* Predator hides HP scorebar, but displays user name
+# Mk7 Stealth
+* Mk7 Stealth is branched from Mk6 Predator
+* Stealth shows your hit bursts.  
+  This changing is difference from Predator.
 
 > Enjoy your playing!
